@@ -12,4 +12,4 @@ python3 manage.py createsuperuser # Create a superuser
 python3 manage.py runserver
 Abra un navegador http://127.0.0.1:8000/admin/ para abrir el sitio de administración
 Cree algunos objetos de prueba de cada tipo.
-Abra la pestaña para http://127.0.0.1:8000ver el sitio principal, con sus nuevos objetos.
+Abra la pestaña para http://127.0.0.1:8000/catalog/ ver el sitio principal, con sus nuevos objetos.
