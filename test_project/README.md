@@ -1,7 +1,6 @@
 Para poner en marcha este proyecto localmente en su computadora:
 
-Configure el entorno de desarrollo de Python . Recomendamos utilizar un entorno virtual de Python.
-Nota: Esto ha sido probado contra Django 3.1.2 (y puede que no funcione o sea "óptimo" para otras versiones).
+Cambie al directorio test_project:
 
 Suponiendo que tiene la configuración de Python, ejecute los siguientes comandos (si está en Windows, puede usar pyo py -3en lugar de pythonpara iniciar Python):
 pip3 install -r requirements.txt
